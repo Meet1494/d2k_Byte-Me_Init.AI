@@ -1,0 +1,51 @@
+event_id,event_name,event_type,genre,city,latitude,longitude,accessibility_score,popularity_score,price,capacity,date_time
+0,Comedy Concert,Theater,Jazz,Pune,18.500401,73.747156,0.66,0.19,3046,1296,2025-03-31 13:10:28
+1,Rock Show,Stand-up Comedy,Traditional,Delhi,28.54344,77.256369,0.5,0.17,2396,1866,2025-05-15 13:10:28
+2,Pop Show,Concert,Classical,Bangalore,13.064641,77.645447,0.62,0.21,2253,3539,2025-05-02 13:10:28
+3,Folk Night,Cultural Festival,Pop,Lucknow,26.791423,80.922172,0.79,0.75,2686,3616,2025-03-23 13:10:28
+4,Rock Night,Dance Performance,Hip-Hop,Lucknow,26.770563,81.014133,0.53,0.57,4456,4258,2025-04-27 13:10:28
+5,Electronic Concert,Music Festival,Jazz,Delhi,28.595227,77.058574,0.68,0.16,2275,949,2025-05-11 13:10:28
+6,Jazz Concert,Dance Performance,Hip-Hop,Lucknow,26.847037,80.966504,0.91,0.26,4106,4020,2025-05-02 13:10:28
+7,Folk Night,Music Festival,Bollywood,Bangalore,13.143449,77.51262,0.52,0.28,643,2685,2025-05-21 13:10:28
+8,Pop Show,Music Festival,Jazz,Kolkata,22.554615,88.496737,0.88,0.27,3224,491,2025-05-17 13:10:28
+9,Electronic Show,Cultural Festival,Folk,Chennai,12.981965,80.259868,0.95,0.45,1830,4164,2025-05-06 13:10:28
+10,Classical Night,Cultural Festival,Electronic,Ahmedabad,23.073469,72.659458,0.54,0.64,1778,4568,2025-04-10 13:10:28
+11,Classical Concert,Stand-up Comedy,Traditional,Chennai,12.930779,80.165584,0.86,0.25,3936,2979,2025-04-20 13:10:28
+12,Traditional Show,Music Festival,Jazz,Delhi,28.763407,77.301384,0.54,0.67,3276,4303,2025-05-13 13:10:28
+13,Traditional Show,Concert,Rock,Bangalore,13.185837,77.528556,0.53,0.8,3300,3066,2025-04-16 13:10:28
+14,Folk Concert,Music Festival,Folk,Lucknow,26.706477,80.930688,0.88,0.62,4637,3106,2025-04-17 13:10:28
+15,Comedy Night,Cultural Festival,Rock,Chennai,13.094868,80.149922,0.75,0.45,4901,1064,2025-04-08 13:10:28
+16,Traditional Concert,Cultural Festival,Folk,Kolkata,22.611211,88.264371,0.6,0.22,906,3803,2025-04-03 13:10:28
+17,Hip-Hop Concert,Cultural Festival,Comedy,Ahmedabad,23.199452,72.662103,0.77,0.36,2757,1390,2025-05-07 13:10:28
+18,Comedy Fest,Theater,Bollywood,Bangalore,13.138109,77.601751,0.9,0.12,4838,4788,2025-04-15 13:10:28
+19,Traditional Night,Concert,Classical,Ahmedabad,23.160732,72.610329,0.7,0.75,4221,4406,2025-04-18 13:10:28
+20,Hip-Hop Night,Stand-up Comedy,Folk,Pune,18.564668,73.71475,0.84,0.41,4816,4915,2025-04-03 13:10:28
+21,Jazz Night,Dance Performance,Rock,Bangalore,13.029785,77.682142,0.65,0.25,2147,2934,2025-04-25 13:10:28
+22,Pop Concert,Theater,Classical,Kolkata,22.65378,88.275182,0.81,0.18,1681,4948,2025-04-29 13:10:28
+23,Traditional Concert,Dance Performance,Jazz,Bangalore,12.95136,77.624896,0.91,0.13,672,4824,2025-04-08 13:10:28
+24,Jazz Show,Cultural Festival,Pop,Hyderabad,17.453392,78.383317,0.64,0.96,4256,2106,2025-05-13 13:10:28
+25,Jazz Fest,Stand-up Comedy,Electronic,Pune,18.459487,73.714595,0.74,0.28,1476,2660,2025-05-17 13:10:28
+26,Electronic Fest,Music Festival,Pop,Chennai,13.12026,80.272155,0.78,0.39,4121,1103,2025-04-09 13:10:28
+27,Classical Show,Dance Performance,Electronic,Ahmedabad,23.049584,72.519362,0.62,0.88,1608,2782,2025-05-21 13:10:28
+28,Rock Show,Dance Performance,Folk,Lucknow,26.844226,80.937967,0.75,0.38,489,837,2025-04-17 13:10:28
+29,Traditional Concert,Concert,Jazz,Jaipur,26.891446,75.748146,0.64,0.64,4155,2440,2025-04-26 13:10:28
+30,Classical Concert,Stand-up Comedy,Hip-Hop,Delhi,28.823586,77.03701,0.52,0.15,4902,1694,2025-04-15 13:10:28
+31,Folk Concert,Dance Performance,Traditional,Jaipur,26.85772,75.77727,0.56,0.98,3526,3157,2025-05-12 13:10:28
+32,Rock Fest,Dance Performance,Pop,Chennai,13.06735,80.173121,0.7,0.14,618,1222,2025-05-07 13:10:28
+33,Rock Fest,Music Festival,Traditional,Chennai,13.14119,80.203867,0.66,0.45,2751,4963,2025-04-13 13:10:28
+34,Traditional Concert,Stand-up Comedy,Jazz,Jaipur,26.965658,75.806468,0.68,0.71,3712,4881,2025-04-11 13:10:28
+35,Traditional Fest,Cultural Festival,Jazz,Delhi,28.698455,76.946042,0.79,0.25,3414,1310,2025-05-14 13:10:28
+36,Comedy Fest,Concert,Folk,Hyderabad,17.306314,78.489641,0.66,0.24,1970,3461,2025-04-24 13:10:28
+37,Jazz Fest,Dance Performance,Bollywood,Lucknow,26.884104,81.074564,0.78,1.0,4218,4404,2025-04-16 13:10:28
+38,Pop Concert,Dance Performance,Hip-Hop,Chennai,13.187006,80.191933,0.84,0.88,2465,4066,2025-04-04 13:10:28
+39,Classical Concert,Cultural Festival,Bollywood,Hyderabad,17.355801,78.3597,0.85,0.54,4230,2957,2025-04-27 13:10:28
+40,Pop Show,Stand-up Comedy,Hip-Hop,Kolkata,22.486337,88.372043,0.98,0.82,2679,444,2025-04-10 13:10:28
+41,Classical Show,Theater,Bollywood,Mumbai,19.038545,72.904832,0.91,0.34,4904,2325,2025-03-31 13:10:28
+42,Bollywood Night,Cultural Festival,Pop,Mumbai,19.146271,72.955391,0.61,0.31,1120,3485,2025-04-13 13:10:28
+43,Jazz Fest,Stand-up Comedy,Folk,Ahmedabad,23.020109,72.654153,0.74,0.28,2653,2731,2025-04-10 13:10:28
+44,Traditional Fest,Dance Performance,Jazz,Delhi,28.853968,76.849203,0.96,0.26,1740,397,2025-05-15 13:10:28
+45,Classical Night,Concert,Classical,Pune,18.557592,73.737262,0.78,0.2,3044,2431,2025-04-21 13:10:28
+46,Rock Show,Music Festival,Bollywood,Jaipur,26.904864,75.877852,0.9,0.4,4059,2207,2025-05-07 13:10:28
+47,Classical Fest,Theater,Traditional,Bangalore,12.904225,77.567422,0.93,0.91,3803,4321,2025-04-12 13:10:28
+48,Rock Show,Music Festival,Bollywood,Mumbai,19.060333,72.783385,0.5,0.45,3959,2287,2025-04-13 13:10:28
+49,Classical Concert,Cultural Festival,Bollywood,Kolkata,22.574738,88.371863,0.53,0.21,2813,1408,2025-04-17 13:10:28

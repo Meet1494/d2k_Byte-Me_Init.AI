@@ -1,0 +1,101 @@
+user_id,name,age,city,preferred_genres,preferred_event_types,user_segment,subscription_status,event_attendance_count,average_rating_given,cluster,cluster_name
+0,Aisha Khan 95,24,Mumbai,['Classical'],['Theater'],New User,Free,18,3.84,3,New Users
+1,Arjun Patel 4,53,Delhi,['Bollywood'],['Dance Performance'],Frequent Attendee,Premium,7,3.9,2,Frequent Attendees
+2,Aisha Khan 28,39,Kolkata,['Rock'],"['Music Festival', 'Cultural Festival']",Frequent Attendee,Free,12,3.19,2,Frequent Attendees
+3,Rajesh Gupta 71,36,Chennai,"['Classical', 'Jazz', 'Folk']",['Stand-up Comedy'],New User,Premium,18,3.38,1,Casual Viewers
+4,Rajesh Gupta 49,35,Mumbai,['Bollywood'],"['Concert', 'Theater']",Casual Attendee,Premium,5,3.74,4,Budget Seekers
+5,Rohan Malhotra 49,35,Hyderabad,"['Classical', 'Comedy', 'Rock']",['Theater'],New User,Free,21,3.65,3,New Users
+6,Rajesh Gupta 28,54,Delhi,['Jazz'],"['Stand-up Comedy', 'Music Festival']",New User,Premium,6,4.31,1,Casual Viewers
+7,Priya Sharma 69,34,Pune,"['Folk', 'Rock', 'Classical']",['Theater'],New User,Premium,28,4.17,1,Casual Viewers
+8,Rajesh Gupta 20,58,Chennai,['Rock'],"['Concert', 'Cultural Festival']",Frequent Attendee,Premium,19,3.13,2,Frequent Attendees
+9,Rajesh Gupta 88,52,Pune,"['Folk', 'Pop', 'Classical']",['Cultural Festival'],Casual Attendee,Premium,3,3.59,4,Budget Seekers
+10,Rajesh Gupta 81,37,Bangalore,"['Jazz', 'Classical']",['Dance Performance'],New User,Free,4,3.75,3,New Users
+11,Vikram Singh 40,33,Bangalore,"['Pop', 'Jazz', 'Hip-Hop']","['Concert', 'Cultural Festival']",Frequent Attendee,Free,28,4.13,2,Frequent Attendees
+12,Aisha Khan 17,60,Mumbai,['Folk'],['Dance Performance'],Casual Attendee,Free,8,4.06,0,Premium Enthusiasts
+13,Meera Iyer 52,60,Lucknow,"['Bollywood', 'Pop']",['Cultural Festival'],New User,Premium,14,4.8,1,Casual Viewers
+14,Vikram Singh 3,55,Ahmedabad,['Bollywood'],['Concert'],New User,Free,18,3.44,3,New Users
+15,Rajesh Gupta 66,33,Mumbai,"['Jazz', 'Bollywood', 'Comedy']",['Music Festival'],Casual Attendee,Premium,6,4.08,4,Budget Seekers
+16,Rajesh Gupta 85,45,Lucknow,"['Folk', 'Bollywood', 'Traditional']","['Theater', 'Concert']",Casual Attendee,Premium,13,3.93,4,Budget Seekers
+17,Suman Das 25,52,Delhi,"['Comedy', 'Jazz', 'Electronic']","['Concert', 'Theater']",Casual Attendee,Free,13,3.37,0,Premium Enthusiasts
+18,Warhi Kalla 84,52,Ahmedabad,['Comedy'],"['Dance Performance', 'Concert']",Frequent Attendee,Free,29,4.51,2,Frequent Attendees
+19,Anita Verma 8,28,Hyderabad,['Electronic'],"['Stand-up Comedy', 'Theater']",Casual Attendee,Free,12,3.53,0,Premium Enthusiasts
+20,Meera Iyer 28,21,Ahmedabad,"['Electronic', 'Pop']","['Theater', 'Cultural Festival']",New User,Free,23,3.63,3,New Users
+21,Rajesh Gupta 24,22,Delhi,"['Folk', 'Pop', 'Rock']",['Dance Performance'],New User,Free,21,4.72,3,New Users
+22,Arjun Patel 6,57,Pune,['Traditional'],['Dance Performance'],Frequent Attendee,Premium,21,4.17,2,Frequent Attendees
+23,Anita Verma 17,60,Jaipur,"['Classical', 'Bollywood']","['Theater', 'Music Festival']",New User,Premium,14,3.63,1,Casual Viewers
+24,Priya Sharma 28,50,Mumbai,['Folk'],['Concert'],Casual Attendee,Free,29,3.7,0,Premium Enthusiasts
+25,Priya Sharma 91,37,Mumbai,['Hip-Hop'],"['Theater', 'Stand-up Comedy']",New User,Free,21,4.63,3,New Users
+26,Priya Sharma 20,35,Kolkata,"['Comedy', 'Rock', 'Classical']",['Concert'],Casual Attendee,Free,22,3.69,0,Premium Enthusiasts
+27,Anita Verma 36,20,Kolkata,"['Folk', 'Classical', 'Jazz']",['Cultural Festival'],Frequent Attendee,Premium,24,3.26,2,Frequent Attendees
+28,Rajesh Gupta 10,27,Kolkata,['Folk'],"['Dance Performance', 'Concert']",New User,Free,26,3.74,3,New Users
+29,Meera Iyer 47,20,Jaipur,['Electronic'],['Concert'],Casual Attendee,Free,21,3.5,0,Premium Enthusiasts
+30,Aisha Khan 23,44,Mumbai,"['Pop', 'Electronic']",['Theater'],Frequent Attendee,Free,23,4.85,2,Frequent Attendees
+31,Warhi Kalla 61,32,Pune,"['Bollywood', 'Classical', 'Rock']",['Stand-up Comedy'],Frequent Attendee,Premium,11,3.61,2,Frequent Attendees
+32,Vikram Singh 36,22,Hyderabad,['Jazz'],['Stand-up Comedy'],Casual Attendee,Premium,20,4.02,4,Budget Seekers
+33,Meera Iyer 5,24,Jaipur,"['Jazz', 'Comedy']","['Theater', 'Dance Performance']",New User,Premium,11,4.46,1,Casual Viewers
+34,Arjun Patel 25,34,Chennai,"['Traditional', 'Pop']",['Stand-up Comedy'],Frequent Attendee,Premium,0,4.04,2,Frequent Attendees
+35,Vikram Singh 80,38,Jaipur,"['Bollywood', 'Hip-Hop', 'Electronic']",['Cultural Festival'],New User,Free,23,4.8,3,New Users
+36,Priya Sharma 17,30,Jaipur,"['Electronic', 'Hip-Hop']","['Cultural Festival', 'Music Festival']",Casual Attendee,Premium,21,4.5,4,Budget Seekers
+37,Meera Iyer 27,45,Bangalore,"['Traditional', 'Classical', 'Electronic']",['Music Festival'],New User,Premium,14,3.88,1,Casual Viewers
+38,Vikram Singh 12,33,Hyderabad,"['Folk', 'Rock', 'Comedy']","['Dance Performance', 'Cultural Festival']",New User,Premium,7,4.61,1,Casual Viewers
+39,Arjun Patel 99,22,Bangalore,['Jazz'],['Stand-up Comedy'],Casual Attendee,Premium,28,4.26,4,Budget Seekers
+40,Warhi Kalla 97,24,Hyderabad,"['Electronic', 'Folk', 'Traditional']",['Theater'],Casual Attendee,Free,5,4.61,0,Premium Enthusiasts
+41,Rohan Malhotra 18,47,Jaipur,"['Jazz', 'Pop']",['Concert'],New User,Premium,30,4.51,1,Casual Viewers
+42,Rohan Malhotra 58,34,Ahmedabad,"['Pop', 'Electronic', 'Folk']",['Cultural Festival'],Frequent Attendee,Premium,24,4.56,2,Frequent Attendees
+43,Meera Iyer 31,35,Ahmedabad,"['Bollywood', 'Classical', 'Folk']",['Cultural Festival'],Casual Attendee,Premium,28,4.08,4,Budget Seekers
+44,Suman Das 9,44,Bangalore,['Bollywood'],"['Cultural Festival', 'Theater']",Casual Attendee,Premium,17,3.93,4,Budget Seekers
+45,Arjun Patel 49,48,Delhi,['Electronic'],"['Dance Performance', 'Concert']",Frequent Attendee,Premium,9,4.51,2,Frequent Attendees
+46,Anita Verma 63,19,Pune,"['Pop', 'Bollywood', 'Folk']",['Music Festival'],Casual Attendee,Premium,21,4.36,4,Budget Seekers
+47,Arjun Patel 73,60,Pune,"['Rock', 'Folk', 'Traditional']",['Stand-up Comedy'],Frequent Attendee,Free,20,3.86,2,Frequent Attendees
+48,Suman Das 59,38,Ahmedabad,['Jazz'],"['Stand-up Comedy', 'Music Festival']",Casual Attendee,Premium,8,4.5,4,Budget Seekers
+49,Priya Sharma 7,40,Pune,"['Comedy', 'Folk']",['Cultural Festival'],Frequent Attendee,Free,24,4.91,2,Frequent Attendees
+50,Arjun Patel 20,33,Delhi,['Bollywood'],['Concert'],Frequent Attendee,Premium,21,3.23,2,Frequent Attendees
+51,Arjun Patel 96,25,Hyderabad,"['Classical', 'Hip-Hop']",['Dance Performance'],Frequent Attendee,Premium,3,4.16,2,Frequent Attendees
+52,Suman Das 14,37,Kolkata,"['Electronic', 'Traditional', 'Bollywood']",['Dance Performance'],New User,Free,25,4.97,3,New Users
+53,Vikram Singh 2,44,Delhi,"['Pop', 'Electronic']","['Concert', 'Dance Performance']",Casual Attendee,Free,13,4.92,0,Premium Enthusiasts
+54,Rohan Malhotra 60,45,Ahmedabad,"['Rock', 'Electronic', 'Traditional']","['Dance Performance', 'Cultural Festival']",New User,Premium,10,4.7,1,Casual Viewers
+55,Anita Verma 44,19,Mumbai,"['Folk', 'Bollywood']","['Dance Performance', 'Cultural Festival']",Casual Attendee,Premium,5,3.98,4,Budget Seekers
+56,Priya Sharma 25,23,Chennai,"['Hip-Hop', 'Classical']","['Dance Performance', 'Concert']",Frequent Attendee,Premium,15,4.11,2,Frequent Attendees
+57,Meera Iyer 29,43,Hyderabad,"['Folk', 'Traditional', 'Pop']",['Concert'],New User,Free,9,4.33,3,New Users
+58,Vikram Singh 46,47,Chennai,"['Pop', 'Traditional']","['Stand-up Comedy', 'Dance Performance']",Casual Attendee,Premium,8,3.46,4,Budget Seekers
+59,Suman Das 95,48,Hyderabad,"['Comedy', 'Pop']",['Theater'],Casual Attendee,Premium,3,4.67,4,Budget Seekers
+60,Warhi Kalla 91,52,Kolkata,['Hip-Hop'],['Music Festival'],Frequent Attendee,Premium,1,4.95,2,Frequent Attendees
+61,Arjun Patel 37,48,Jaipur,"['Rock', 'Folk']",['Concert'],Casual Attendee,Premium,10,3.37,4,Budget Seekers
+62,Rohan Malhotra 10,54,Delhi,"['Folk', 'Comedy']",['Stand-up Comedy'],New User,Free,4,3.3,3,New Users
+63,Anita Verma 78,56,Lucknow,"['Comedy', 'Bollywood']",['Dance Performance'],New User,Free,24,4.05,3,New Users
+64,Warhi Kalla 79,24,Ahmedabad,"['Classical', 'Electronic']","['Dance Performance', 'Cultural Festival']",Frequent Attendee,Free,8,4.32,2,Frequent Attendees
+65,Warhi Kalla 53,46,Bangalore,['Rock'],['Theater'],New User,Premium,9,3.07,1,Casual Viewers
+66,Arjun Patel 85,30,Kolkata,"['Classical', 'Folk', 'Comedy']",['Music Festival'],Casual Attendee,Free,17,3.45,0,Premium Enthusiasts
+67,Meera Iyer 77,54,Bangalore,"['Rock', 'Comedy']",['Theater'],Casual Attendee,Premium,3,3.94,4,Budget Seekers
+68,Warhi Kalla 56,38,Kolkata,"['Electronic', 'Classical', 'Folk']","['Concert', 'Dance Performance']",New User,Premium,0,3.18,1,Casual Viewers
+69,Priya Sharma 84,46,Lucknow,"['Jazz', 'Classical', 'Traditional']",['Stand-up Comedy'],Casual Attendee,Free,18,3.87,0,Premium Enthusiasts
+70,Vikram Singh 86,24,Ahmedabad,['Folk'],"['Stand-up Comedy', 'Music Festival']",Frequent Attendee,Premium,13,4.39,2,Frequent Attendees
+71,Meera Iyer 42,25,Kolkata,"['Electronic', 'Pop', 'Jazz']","['Concert', 'Music Festival']",Casual Attendee,Free,21,4.74,0,Premium Enthusiasts
+72,Rohan Malhotra 98,21,Ahmedabad,"['Jazz', 'Bollywood']","['Dance Performance', 'Stand-up Comedy']",Frequent Attendee,Premium,17,3.26,2,Frequent Attendees
+73,Arjun Patel 31,28,Kolkata,"['Folk', 'Comedy']",['Cultural Festival'],Casual Attendee,Free,17,3.82,0,Premium Enthusiasts
+74,Aisha Khan 64,36,Hyderabad,['Folk'],['Cultural Festival'],New User,Premium,13,4.67,1,Casual Viewers
+75,Suman Das 77,50,Ahmedabad,['Folk'],['Stand-up Comedy'],New User,Free,27,3.14,3,New Users
+76,Meera Iyer 76,55,Pune,"['Pop', 'Classical']",['Music Festival'],New User,Premium,27,3.3,1,Casual Viewers
+77,Suman Das 90,33,Jaipur,"['Hip-Hop', 'Traditional']","['Stand-up Comedy', 'Music Festival']",New User,Premium,7,4.71,1,Casual Viewers
+78,Anita Verma 85,59,Pune,['Hip-Hop'],"['Cultural Festival', 'Stand-up Comedy']",Frequent Attendee,Premium,30,3.07,2,Frequent Attendees
+79,Rohan Malhotra 2,27,Jaipur,"['Hip-Hop', 'Comedy', 'Folk']",['Dance Performance'],Casual Attendee,Free,2,3.94,0,Premium Enthusiasts
+80,Priya Sharma 49,38,Kolkata,"['Traditional', 'Electronic']",['Music Festival'],New User,Premium,27,4.08,1,Casual Viewers
+81,Anita Verma 13,58,Lucknow,['Bollywood'],"['Theater', 'Concert']",New User,Free,14,3.33,3,New Users
+82,Vikram Singh 48,45,Kolkata,['Jazz'],"['Concert', 'Music Festival']",Frequent Attendee,Free,16,3.82,2,Frequent Attendees
+83,Anita Verma 80,33,Bangalore,['Rock'],['Dance Performance'],Casual Attendee,Free,7,3.92,0,Premium Enthusiasts
+84,Aisha Khan 10,46,Kolkata,"['Classical', 'Jazz']","['Music Festival', 'Dance Performance']",Casual Attendee,Premium,20,4.92,4,Budget Seekers
+85,Suman Das 49,54,Kolkata,"['Classical', 'Bollywood']","['Stand-up Comedy', 'Concert']",Casual Attendee,Premium,22,3.59,4,Budget Seekers
+86,Arjun Patel 46,32,Pune,"['Jazz', 'Traditional']","['Music Festival', 'Theater']",New User,Free,19,3.5,3,New Users
+87,Vikram Singh 94,26,Bangalore,"['Comedy', 'Jazz', 'Classical']","['Concert', 'Dance Performance']",Frequent Attendee,Premium,10,4.49,2,Frequent Attendees
+88,Meera Iyer 22,34,Bangalore,['Rock'],"['Dance Performance', 'Cultural Festival']",Casual Attendee,Premium,23,4.74,4,Budget Seekers
+89,Anita Verma 72,41,Mumbai,"['Comedy', 'Rock']",['Cultural Festival'],Frequent Attendee,Premium,0,3.53,2,Frequent Attendees
+90,Rajesh Gupta 87,32,Mumbai,"['Hip-Hop', 'Classical']","['Cultural Festival', 'Music Festival']",Casual Attendee,Free,19,4.77,0,Premium Enthusiasts
+91,Rohan Malhotra 90,37,Jaipur,"['Traditional', 'Bollywood']",['Cultural Festival'],New User,Premium,3,3.28,1,Casual Viewers
+92,Priya Sharma 18,42,Delhi,"['Folk', 'Comedy']",['Theater'],Casual Attendee,Premium,21,4.9,4,Budget Seekers
+93,Rohan Malhotra 79,44,Jaipur,"['Traditional', 'Rock']","['Cultural Festival', 'Concert']",Casual Attendee,Free,22,3.74,0,Premium Enthusiasts
+94,Vikram Singh 70,59,Ahmedabad,"['Bollywood', 'Hip-Hop']",['Cultural Festival'],Casual Attendee,Free,12,3.55,0,Premium Enthusiasts
+95,Vikram Singh 32,26,Mumbai,"['Comedy', 'Bollywood']",['Concert'],New User,Free,2,4.66,3,New Users
+96,Vikram Singh 100,27,Jaipur,['Traditional'],['Theater'],New User,Free,8,4.72,3,New Users
+97,Warhi Kalla 17,18,Bangalore,['Pop'],"['Theater', 'Concert']",Casual Attendee,Free,18,3.65,0,Premium Enthusiasts
+98,Rajesh Gupta 61,46,Bangalore,"['Jazz', 'Rock']","['Dance Performance', 'Concert']",Casual Attendee,Free,14,4.01,0,Premium Enthusiasts
+99,Warhi Kalla 62,43,Lucknow,['Pop'],"['Stand-up Comedy', 'Concert']",Casual Attendee,Free,15,4.42,0,Premium Enthusiasts

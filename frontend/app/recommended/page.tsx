@@ -302,7 +302,7 @@ export default function RecommendedPage() {
   const [sortOption, setSortOption] = useState("match")
   const [filteredRecommendations, setFilteredRecommendations] = useState(personalizedRecommendations)
   const { toast } = useToast()
-
+  
   // Show a welcome toast when the page loads
   useEffect(() => {
     toast({
