@@ -847,7 +847,7 @@ export default function RecommendedPage() {
   // Fetch data from API
   const fetchEventsData = async () => {
     try {
-      const response = await fetch('http://localhost:5000/api/data/1')
+      const response = await fetch('http://localhost:5000/api/recommendations/1')
       const data = await response.json()
       
       // Format the data to match the component's expected structure
